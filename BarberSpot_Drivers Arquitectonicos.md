@@ -1,4 +1,5 @@
 # BarberSpot — Documentación de Arquitectura de Software
+Kelly Fernanda Uribe Giraldo y Daniel Henao Londoño
 
 ## Contexto del proyecto
 
